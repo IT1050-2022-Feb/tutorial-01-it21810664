@@ -29,7 +29,7 @@ int main( void )
     return 0;
 }
 
-int minimum( int num1, int num2 )
+int minimum( int num1, int num2  )
 {
     if( num1 < num2 )
     {
